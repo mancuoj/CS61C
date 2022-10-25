@@ -1,10 +1,11 @@
+<br>
 <p align="center">
 <img src="./U.png" alt="logo" height="150"/>
 </p>
 
-<p align="center">
+<h1 align="center">
 UCB CS61C
-</p>
+</h1>
 
 <p align="center">
   <a href="https://cs61c.org/">course link</a>
